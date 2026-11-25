@@ -28,3 +28,7 @@ claude plugin install tool-calls --marketplace dnlwrthstr/tool-calls-mod
 In the Claude desktop app, where `/plugin` does not run: click **+** next to
 the prompt box, then **Plugins**, **Add marketplace** with
 `dnlwrthstr/tool-calls-mod`, then **Add plugin**.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
