@@ -1,0 +1,5 @@
+{
+  "name": "tool-calls-mod",
+  "owner": { "name": "dnlwrthstr" },
+  "plugins": [{ "name": "tool-calls", "source": "./" }]
+}
