@@ -1,5 +1,6 @@
 {
   "name": "tool-calls-mod",
+  "description": "A Claude Code mod that shows a live pane of the session's tool calls",
   "owner": { "name": "dnlwrthstr" },
   "plugins": [{ "name": "tool-calls", "source": "./" }]
 }
