@@ -1,1 +1,1 @@
-{ "name": "tool-calls", "version": "0.1.0", "description": "Live pane listing this session's tool calls", "author": { "name": "Daniel Wirth" }, "license": "MIT", "types": "./types/index.d.ts" }
+{ "name": "tool-calls", "version": "0.1.1", "description": "Live pane listing this session's tool calls", "author": { "name": "Daniel Wirth" }, "license": "MIT", "types": "./types/index.d.ts" }
